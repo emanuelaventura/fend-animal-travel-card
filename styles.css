@@ -1,0 +1,17 @@
+/* add your CSS here */
+
+#interestingfact{font-style: italic;}
+#imgstyle{
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;}
+.bolded{font-weight: bold;}
+.nodots{list-style-type:square;}
+.border{
+  border-style:solid;
+  border-color: green;
+  border-radius: 15px;}
+.padding{padding: 1em;}
+.fixedwidth{width:min-content;}
+.yellow_background{background-color: yellow;}
+.green_background{background-color:orange;}
